@@ -38,7 +38,7 @@ The dataset used in this Power BI report includes:
    - Click on charts and graphs for detailed insights.
 
 ## **Download the Project**
-[Click here to download the Power BI file](https://raw.githubusercontent.com/your-username/PowerBI-Project/main/SIVARAJA%20WASTAGE%20PROJECT.pbix)
+[Click here to download the Power BI file](https://github.com/sivaraja777/-Waste-Management-Analysis-in-India---PowerBI-/blob/main/SIVARAJA%20WASTAGE%20PROJECT.pbix)
 
 ## **How to Customize**
 - **Modify Filters:** Adjust filters to analyze data for specific cities or years.
