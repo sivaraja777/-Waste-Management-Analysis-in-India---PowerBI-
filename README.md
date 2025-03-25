@@ -20,7 +20,7 @@ The **SIVARAJA WASTAGE PROJECT** is a Power BI dashboard designed to analyze and
 
 ## **Screenshots**
 ### **Dashboard Overview**
-![Dashboard Overview](https://raw.githubusercontent.com/your-username/PowerBI-Project/main/Screenshot%202025-03-25%20203730.png)
+![Dashboard Overview](https://github.com/sivaraja777/-Waste-Management-Analysis-in-India---PowerBI-/blob/main/Screenshot%202025-03-25%20203730.png)
 
 ## **Data Sources**
 The dataset used in this Power BI report includes:
