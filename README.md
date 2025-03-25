@@ -1,4 +1,3 @@
-# -Waste-Management-Analysis-in-India---PowerBI-
 # **SIVARAJA WASTAGE PROJECT**
 
 ## **Project Overview**
@@ -20,7 +19,7 @@ The **SIVARAJA WASTAGE PROJECT** is a Power BI dashboard designed to analyze and
 
 ## **Screenshots**
 ### **Dashboard Overview**
-![Dashboard Overview](https://github.com/sivaraja777/-Waste-Management-Analysis-in-India---PowerBI-/blob/main/Screenshot%202025-03-25%20203730.png)
+![Dashboard Overview](https://raw.githubusercontent.com/your-username/PowerBI-Project/main/Screenshot%202025-03-25%20203730.png)
 
 ## **Data Sources**
 The dataset used in this Power BI report includes:
@@ -28,6 +27,18 @@ The dataset used in this Power BI report includes:
 - **Recycling Statistics**: Percentage of waste recycled per category.
 - **Cost Data**: Cost of waste management per ton.
 - **Municipal Efficiency Data**: Efficiency scores for each city’s waste management performance.
+
+## **Use Cases**
+This Power BI dashboard is beneficial for:
+- **Government Agencies:** To monitor and improve waste management strategies.
+- **Environmental Organizations:** To advocate for better recycling and waste reduction policies.
+- **Municipal Corporations:** To compare waste management efficiency across cities.
+- **Researchers & Data Analysts:** To study waste generation patterns and trends.
+
+## **Technology Stack**
+- **Power BI:** Used for data visualization and dashboard creation.
+- **CSV/Excel Data Sources:** Imported for data analysis.
+- **Geospatial Mapping:** Integrated to display landfill locations.
 
 ## **Installation & Usage**
 1. **Download and install Power BI Desktop** from [Microsoft](https://powerbi.microsoft.com/).
@@ -38,7 +49,12 @@ The dataset used in this Power BI report includes:
    - Click on charts and graphs for detailed insights.
 
 ## **Download the Project**
-[Click here to download the Power BI file](https://github.com/sivaraja777/-Waste-Management-Analysis-in-India---PowerBI-/blob/main/SIVARAJA%20WASTAGE%20PROJECT.pbix)
+[Click here to download the Power BI file](https://raw.githubusercontent.com/your-username/PowerBI-Project/main/SIVARAJA%20WASTAGE%20PROJECT.pbix)
+
+## **Future Improvements**
+- **AI-Powered Insights:** Predictive analysis for waste generation trends.
+- **Real-Time Data Integration:** Connecting live waste management data sources.
+- **Enhanced User Interactivity:** More filters and drill-through reports for deeper insights.
 
 ## **How to Customize**
 - **Modify Filters:** Adjust filters to analyze data for specific cities or years.
@@ -48,3 +64,9 @@ The dataset used in this Power BI report includes:
 ## **Contributing**
 Contributions are welcome! Feel free to fork the project, submit pull requests, or suggest improvements.
 
+## **License**
+This project is licensed under the **MIT License**.
+
+---
+**Author**: SIVA RAJA  
+**Contact**: sivaraja12828@gmail.com
