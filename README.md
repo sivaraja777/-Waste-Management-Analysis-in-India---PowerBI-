@@ -48,8 +48,6 @@ This Power BI dashboard is beneficial for:
    - Use slicers and filters to customize your view.
    - Click on charts and graphs for detailed insights.
 
-## **Download the Project**
-[Click here to download the Power BI file](https://github.com/sivaraja777/-Waste-Management-Analysis-in-India---PowerBI-/blob/main/SIVARAJA%20WASTAGE%20PROJECT.pbix)
 
 ## **Future Improvements**
 - **AI-Powered Insights:** Predictive analysis for waste generation trends.
@@ -70,3 +68,4 @@ This project is licensed under the **MIT License**.
 ---
 **Author**: SIVA RAJA  
 **Contact**: sivaraja12828@gmail.com
+**NOTE**: I delete the project file from my github because someone will use my project
